@@ -1,0 +1,53 @@
+
+
+form{
+    width: 600px;
+    margin: auto;
+}
+
+form input,
+form select,
+form textarea{
+    background-color: #fffc;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+    transition: 200ms;
+}
+
+form input:hover,
+form select:hover,
+form textarea:hover{
+    background-color: #dddddd;
+}
+
+
+form legend{
+    color: #888;
+    font-weight: bold;
+    font-size: 15pt;
+    font-family: sans-serif;
+}
+
+form fieldset{
+    border-color: #cecece;
+    margin: 20px;
+}
+
+form fieldset#sexo{
+    width: 150px;
+}
+
+
+form fieldset#usuario{
+    background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;
+}
+form fieldset#endereço{
+    background: url("../_imagens/icone-endereco.png") no-repeat 95% 95%;
+}
+form fieldset#mensagem{
+    background: url("../_imagens/icone-mensagem.png") no-repeat 95% 95%;
+}
+form fieldset#pedido{
+    background: url("../_imagens/icone-pagamento.png") no-repeat 95% 95%;
+}
