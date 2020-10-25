@@ -1,7 +1,7 @@
 # GoogleGlass  UI Clone
- Este projeto foi feito com base no tutorial de html5 do canal curso em video realizado em 2013
+ Este projeto foi feito com base no tutorial de html5 do canal [Curso Em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) realizado em 2013
 
-Com este tutorial de html5 e css3, aprendemos muito sobre estas tecnologias, e neste aprendizado, desenvolvemso um site completo, sem back-end, e para inspiração, tivemos o google glass como foco para a criação do nosso site
+Com este tutorial de html5 e css3, aprendemos muito sobre estas tecnologias, e neste aprendizado, desenvolvemos um site completo, sem back-end, e para inspiração, tivemos o google glass como foco para a criação do nosso site
 
 
 Entre no site e veja por você mesmo todo o funcinamento dele!
@@ -42,7 +42,7 @@ Nesta pagina inserimos algumas fotos, sem nenhuma busca inteligente, ou algum ti
 </p>
 
 ### Pagina de Multimedia
-Nesta pagina, temos apenas um video e um arquivo de audio posicionados para representar um dispositivo.
+Nesta pagina, inserimos videos apartir de nosso propio servidor e também os audios, além de verificar como fazer o mesmo, porém com servidor de terceiros, como o youtube, e nesta pagina temos apenas um video e um arquivo de audio posicionados para representar um dispositivo.
 <p>
 <img src="https://user-images.githubusercontent.com/68889180/97121950-d8393a00-1700-11eb-9430-bd356e60c7e3.png"
      alt="Pagina de Multimedia">
@@ -60,3 +60,5 @@ Por fim, temos a pagina para se obter contato, como esta parte é apenas ilustra
 ### Conclusão.
 
 O principal aprendizado, e foco do tutorial, foi ensinar HTML5 e CSS3 de uma forma mais pratica, tendo 36 video-aulas que podem ser encontradas [Aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) feitas em 2013 e concluida por min em 2020.
+
+
