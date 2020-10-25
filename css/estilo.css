@@ -2,7 +2,7 @@
 @font-face
 {
     font-family: "FontLogo";
-    src: url(../_fonts/bubblegum-sans-regular.otf);
+    src: url(../fonts/bubblegum-sans-regular.otf);
 }
 body
 {
@@ -130,7 +130,7 @@ header#header
 {
     border-bottom: 1px #606060 solid;
     height: 150px;
-    background: url(../_imagens/glass-logo-peq.jpg) no-repeat 0px 80px;
+    background: url(../imagens/glass-logo-peq.jpg) no-repeat 0px 80px;
 }
 header#header h1
 {
